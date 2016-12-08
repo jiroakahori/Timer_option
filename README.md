@@ -1,6 +1,7 @@
 # Timer_option
 timer option by reflection
 
+コメントはここにかけばいいのでしょうか？小山先生と井田さんをメンバーに入れてください．（赤堀)　2016_12_08
 
 file BM_test2016_11_23 
 	ブラウン運動を生成します。 
